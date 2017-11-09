@@ -10,4 +10,4 @@ prosze zapoznać sie ***przed*** rozpoczęciem się zajęć
 >
 > https://developer.android.com/guide/topics/data/data-storage.html
 
-Na drugim spotkaniu odbęda sie prace koncepcyjne nad wyglądem aplikacji i jej mechanizmem działania.
+Na drugim spotkaniu odbędą sie prace koncepcyjne nad wyglądem aplikacji i jej mechanizmem działania.
