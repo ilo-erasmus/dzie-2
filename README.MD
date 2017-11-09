@@ -1,6 +1,6 @@
 # Dzień2
 
-Spotkanie zaczyna się 10.11.2017 o godzinie 8:00. Zajęcia odbęda się w sali religii prawosławnej.
+Spotkanie zaczyna się 10.11.2017 o godzinie 8:15. Zajęcia odbęda się w sali religii prawosławnej.
 
 Materiały na dzień2
 
